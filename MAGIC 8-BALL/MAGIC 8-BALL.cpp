@@ -75,4 +75,5 @@ int main(){
         default:
         cout << "you mistake";
     }
+        return 0;
 }
